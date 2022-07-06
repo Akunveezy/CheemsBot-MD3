@@ -42,7 +42,7 @@ global.ownertag = ['DimzOfc'] //ur owner tag
 global.ownernummenu = ['6283831717202'] //ur owner number in menu and all
 global.watermark = "DimzBotz" //ur watermark
 global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5"
+global.linkz1 = "https://chat.whatsapp.com/ByTXrvAsVD89mGHy4i1Wu2"
 global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
 
 //Bot theme media
